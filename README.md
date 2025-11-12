@@ -7,7 +7,7 @@ A full-stack web platform that allows users to share and explore beautiful views
 
 ## 🧰 Tech Stack
 - React.js, Node.js, MongoDB 
-- HTML, CSS, JavaScript  
+- HTML, CSS
 
 ## 👩‍💻 My Role
 - deployment testing  
